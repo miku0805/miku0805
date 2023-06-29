@@ -1,16 +1,17 @@
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
+### Hi there, I am Mikami👋
 
-<!--
-**miku0805/miku0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A Student from **GuangDong, China**.
 
-Here are some ideas to get you started:
+### 📫 Reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **QQ** : 3500085264
+- **WeChat** : Chtholly__Tree
+- **E-mail** : 3500085264@qq.com
+
+> 正在求职中，有意加我WX
+
+### 🏠 Blog:
+
+- **[http://ljcmemory.top/](http://ljcmemory.top/)**
